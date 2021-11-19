@@ -8,3 +8,13 @@ D:\Usuarios\jlcastro\source\repos\Tenis\Tenis\obj\Debug\Tenis.csproj.GenerateRes
 D:\Usuarios\jlcastro\source\repos\Tenis\Tenis\obj\Debug\Tenis.csproj.CoreCompileInputs.cache
 D:\Usuarios\jlcastro\source\repos\Tenis\Tenis\obj\Debug\Tenis.exe
 D:\Usuarios\jlcastro\source\repos\Tenis\Tenis\obj\Debug\Tenis.pdb
+C:\Users\Sony-Vaio\Source\Repos\Pichincha\Tenis\Tenis\bin\Debug\Tenis.exe.config
+C:\Users\Sony-Vaio\Source\Repos\Pichincha\Tenis\Tenis\bin\Debug\Tenis.exe
+C:\Users\Sony-Vaio\Source\Repos\Pichincha\Tenis\Tenis\bin\Debug\Tenis.pdb
+C:\Users\Sony-Vaio\Source\Repos\Pichincha\Tenis\Tenis\obj\Debug\Tenis.csproj.AssemblyReference.cache
+C:\Users\Sony-Vaio\Source\Repos\Pichincha\Tenis\Tenis\obj\Debug\Tenis.Form1.resources
+C:\Users\Sony-Vaio\Source\Repos\Pichincha\Tenis\Tenis\obj\Debug\Tenis.Properties.Resources.resources
+C:\Users\Sony-Vaio\Source\Repos\Pichincha\Tenis\Tenis\obj\Debug\Tenis.csproj.GenerateResource.cache
+C:\Users\Sony-Vaio\Source\Repos\Pichincha\Tenis\Tenis\obj\Debug\Tenis.csproj.CoreCompileInputs.cache
+C:\Users\Sony-Vaio\Source\Repos\Pichincha\Tenis\Tenis\obj\Debug\Tenis.exe
+C:\Users\Sony-Vaio\Source\Repos\Pichincha\Tenis\Tenis\obj\Debug\Tenis.pdb

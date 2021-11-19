@@ -12,7 +12,7 @@ namespace Tenis
 {
     public partial class Form1 : Form
     {
-        public string[] saque = new string[] { "respuesta", "punto", "fuera", "respuesta"   };
+        public static string[] saque = new string[] { "respuesta", "punto", "fuera", "respuesta"   };
         public int puntosj1 = 0, puntosj2 = 0, unidadesj1 = 0, unidadesj2 = 0;
         public int ganador = 0;
 
@@ -85,7 +85,7 @@ namespace Tenis
                 {
                     if ((unidadesj2 - unidadesj1) >= 2)
                     {
-                        puntosj2 = puntosj2 + 1;
+                        puntosj2++;
                         unidadesj1 = 0;
                         unidadesj2 = 0;
                         ganador = 2;
@@ -109,7 +109,7 @@ namespace Tenis
                 {
                     if ((unidadesj1 - unidadesj2) >= 2)
                     {
-                        puntosj1 = puntosj1 + 1;
+                        puntosj1++;
                         unidadesj2 = 0;
                         unidadesj1 = 0;
                         ganador = 1;
@@ -132,18 +132,18 @@ namespace Tenis
             {
                 case 0:
                     return "0";
-                    break;
+                    //break;
                 case 1:
                     return "15";
-                    break;
+                    //break;
                 case 2:
                     return "30";
-                    break;
+                    //break;
                 case 3:
                     return "40";
-                    break;
+                    //break;
             }
-            return "";
+            return string.Empty;
         }
 
         private string MensajeRespuesta()
@@ -169,10 +169,10 @@ namespace Tenis
                     {
                         case 1:
                             return "PlayerOne wins";
-                            break;
+                            //break;
                         case 2:
                             return "PlayerTwo wins";
-                            break;
+                            //break;
                     }
                 }
                 else
