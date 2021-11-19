@@ -1,0 +1,10 @@
+D:\Usuarios\jlcastro\source\repos\Tenis\Tenis\bin\Debug\Tenis.exe.config
+D:\Usuarios\jlcastro\source\repos\Tenis\Tenis\bin\Debug\Tenis.exe
+D:\Usuarios\jlcastro\source\repos\Tenis\Tenis\bin\Debug\Tenis.pdb
+D:\Usuarios\jlcastro\source\repos\Tenis\Tenis\obj\Debug\Tenis.csprojAssemblyReference.cache
+D:\Usuarios\jlcastro\source\repos\Tenis\Tenis\obj\Debug\Tenis.Form1.resources
+D:\Usuarios\jlcastro\source\repos\Tenis\Tenis\obj\Debug\Tenis.Properties.Resources.resources
+D:\Usuarios\jlcastro\source\repos\Tenis\Tenis\obj\Debug\Tenis.csproj.GenerateResource.cache
+D:\Usuarios\jlcastro\source\repos\Tenis\Tenis\obj\Debug\Tenis.csproj.CoreCompileInputs.cache
+D:\Usuarios\jlcastro\source\repos\Tenis\Tenis\obj\Debug\Tenis.exe
+D:\Usuarios\jlcastro\source\repos\Tenis\Tenis\obj\Debug\Tenis.pdb
